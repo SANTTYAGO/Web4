@@ -27,7 +27,7 @@ Este proyecto es una aplicación interactiva de un **Tablero de Control** desarr
    ```
 3. Ejecuta la aplicación:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Datos
